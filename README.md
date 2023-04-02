@@ -1,6 +1,5 @@
 # Terraform_github_repo
-Create Your GitHub repositry with terraform
-Run simple terraform commands---
+Create Your GitHub repositry with terraform by running simple terraform commands---
 
 terraform init
 
